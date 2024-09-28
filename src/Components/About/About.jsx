@@ -5,7 +5,7 @@ function About() {
     <div className='flex justify-start h-screen'>
         {/* image */}
         <div className='h-1/2 w-1/3 flex justify-start content-start items-start'>
-            <img className='h-full rotate-180' src="../public/for test.png" alt="about me image" />
+            <img className='h-full rotate-180' src="https://lh3.google.com/u/0/d/1xjBoI5n7XSneZUKKZ8IH4MCte5WDn51j=w1920-h945-iv1" alt="about me image" />
         </div>
         {/* about content */}
         <div className='h-1/2 w-1/2 p-8 '>
