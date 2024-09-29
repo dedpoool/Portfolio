@@ -8,7 +8,7 @@ return (
     <div className='flex w-full justify-evenly align-middle bg-purple-400 items-center'> 
     {/* Logo */}
     <div className='w-1/12 rounded-lg'>
-        <img className='rounded-2xl m-4' src="https://s.cafebazaar.ir/images/icons/com.bu4aru.Disturb-c5b362bf-c41d-4caa-abcb-995977b04bc3_512x512.png?x-img=v1/resize,h_256,w_256,lossless_false/optimize" alt="" />
+        <img className='rounded-2xl m-4' src="/public/my try 2square orange.png" alt="" />
     </div>
 
     {/* Navigation */}
